@@ -1,7 +1,12 @@
-learning Github
+MÉTODOS HTTP
 
-I know how to push modifications to Github...
+GET --> a API fornece informações
 
-includ page test the code.
+PUT --> a API recebe informações para update de um ou mais registros
 
-remove inline the code.....
+POST --> a API recebe informações que devem ou não ser registradas
+
+DELETE --> a API recebe identificadores de registro que devem ser apagados
+
+
+PATCH --> recebe informações para update de um registro
