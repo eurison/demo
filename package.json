@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "MÉTODOS HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurison/demo.git"
+  },
+  "keywords": [],
+  "author": "eurison barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eurison/demo/issues"
+  },
+  "homepage": "https://github.com/eurison/demo#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "express": "^4.18.2"
+  }
+}
